@@ -26,7 +26,7 @@
             "type": "int"
         },
         "bathrooms": {
-            "type": "int"
+            "type": "float"
         },
         "garages": {
             "type": "int",
